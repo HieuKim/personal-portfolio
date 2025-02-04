@@ -12,7 +12,7 @@ export const projects =
     },
 
     {
-        "name":"Ez Test",
+        "name":"Eazy Test",
         "url":"https://test.dsvp.vn",
         "desc": "An internal tool for the company to manage and create tests for the employees. It is a platform for creating and managing tests for the employees.",
         "tools":
