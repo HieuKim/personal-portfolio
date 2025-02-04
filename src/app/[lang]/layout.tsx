@@ -16,7 +16,7 @@ export default function RootLayout({children, params: {lang}}: {children: React.
 
   return (
     // <html lang={lang} className = "dark">
-    <html lang={lang} className="dark" style={{ colorScheme: 'dark' }}>
+    <html lang="en" className="dark" style={{ colorScheme: 'dark' }}>
 
     <body className='dark:bg-gradient-to-b from-black via-gray-950 to-gray-700'>
 

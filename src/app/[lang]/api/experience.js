@@ -26,7 +26,7 @@ export const workExperience =
         "height":"400",
         "desc" : [
             "Reduced manual efforts by 95% by developing ERA( Efficent Resource Allocation) system Outsystems. The system is being used by 100+ employees to support portfolio management processes, project management, and resource allocation which resulted in a 50% increase in project delivery efficiency.",
-            "Collaborated closely with PM and cross-functional teams to deliver high-quality features, ensuring 90 percent integration test coverage. Conducted comprehensive code reviews and documentation for robust code quality."]
+            "Collaborated closely with PM and cross-functional teams to deliver high-quality features, ensuring 90% integration test coverage. Conducted comprehensive code reviews and documentation for robust code quality."]
     },
 
 ]
