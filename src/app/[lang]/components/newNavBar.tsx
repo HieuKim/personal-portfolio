@@ -50,9 +50,15 @@ const NewNavBar = () => {
             className="nav-links px-4 cursor-pointer capitalize font-medium dark:text-gray-300 
           hover:scale-105 dark:hover:text-white duration-200 link-underline"
           >
+          {link.name === 'Resume' ? (
+            <a href={link.path} target="_blank" rel="noopener noreferrer">
+              {link.name}
+            </a>
+          ) : (
             <Link href={link.path}>
               {link.name}
             </Link>
+          )}
           </li>
         ))}
         <li className="nav-links px-4 cursor-pointer capitalize font-medium dark:text-gray-300 
