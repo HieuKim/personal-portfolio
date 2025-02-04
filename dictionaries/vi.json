@@ -1,0 +1,21 @@
+{
+    "jumbotron": {
+      "heading": "Xin chào, tôi là Hieu Kim",
+      "subHeading": "Tôi là một lập trình viên Full Stack với 4 năm kinh nghiệm trong việc phát triển ứng dụng web. Tôi đam mê học hỏi công nghệ mới và xây dựng ứng dụng có khả năng mở rộng."
+    },
+
+    "nav": {
+      "Home": "Trang chủ",
+      "Experience": "Kinh nghiệm",
+      "Certifications": "Chứng chỉ",
+      "Skills": "Kỹ năng",
+      "Projects": "Dự án",
+      "Hackathons": "Hackathons",
+      "Resume": "Hồ sơ",
+      "Contact": "Liên hệ",
+      "Blog": "Blog"
+
+    }
+
+
+}
