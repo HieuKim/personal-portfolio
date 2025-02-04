@@ -1,175 +1,175 @@
 export    const certifications = [
     
-    {
-        "name":"Algorithms Specialization",
-        "issuingOrganization": "CoursEra",
-        "url" : "https://coursera.org/share/30c5b5e121f778b6b2cfff7d7c7151c4",
-        "date" : "Nov 2024",
-        "logo":"/stanford.png",
-        "width":"400",
-        "height":"100",
-        "credentials"  :"ZKNP1VXSIP7X",
-        "courses":[
-            {
-                "name":"Divide and Conquer, Sorting and Searching, and Randomized Algorithms",
-                "url":"https://coursera.org/share/9ede656eef6ead056e057fbc951a4c76",
-                "tag":"Divide and Conquer"
+    // {
+    //     "name":"Algorithms Specialization",
+    //     "issuingOrganization": "CoursEra",
+    //     "url" : "https://coursera.org/share/30c5b5e121f778b6b2cfff7d7c7151c4",
+    //     "date" : "Nov 2024",
+    //     "logo":"/stanford.png",
+    //     "width":"400",
+    //     "height":"100",
+    //     "credentials"  :"ZKNP1VXSIP7X",
+    //     "courses":[
+    //         {
+    //             "name":"Divide and Conquer, Sorting and Searching, and Randomized Algorithms",
+    //             "url":"https://coursera.org/share/9ede656eef6ead056e057fbc951a4c76",
+    //             "tag":"Divide and Conquer"
 
-            },
-            {
-                "name":"Divide and Conquer, Sorting and Searching, and Randomized Algorithms",
-                "url":"https://coursera.org/share/9ede656eef6ead056e057fbc951a4c76",
-                "tag":"Sorting and Searching"
+    //         },
+    //         {
+    //             "name":"Divide and Conquer, Sorting and Searching, and Randomized Algorithms",
+    //             "url":"https://coursera.org/share/9ede656eef6ead056e057fbc951a4c76",
+    //             "tag":"Sorting and Searching"
 
-            },
-            {
-                "name":"Divide and Conquer, Sorting and Searching, and Randomized Algorithms",
-                "url":"https://coursera.org/share/9ede656eef6ead056e057fbc951a4c76",
-                "tag":" Randomized Algorithms"
+    //         },
+    //         {
+    //             "name":"Divide and Conquer, Sorting and Searching, and Randomized Algorithms",
+    //             "url":"https://coursera.org/share/9ede656eef6ead056e057fbc951a4c76",
+    //             "tag":" Randomized Algorithms"
 
-            },
-            {
-                "name":"Graph Search, Shortest Paths, and Data Structures",
-                "url":"https://coursera.org/share/586430393d6f9d4808d3926401616f95",
-                "tag":"Graph Search"
+    //         },
+    //         {
+    //             "name":"Graph Search, Shortest Paths, and Data Structures",
+    //             "url":"https://coursera.org/share/586430393d6f9d4808d3926401616f95",
+    //             "tag":"Graph Search"
 
-            },
-            {
-                "name":"Graph Search, Shortest Paths, and Data Structures",
-                "url":"https://coursera.org/share/586430393d6f9d4808d3926401616f95",
-                "tag":"Shortest Paths"
+    //         },
+    //         {
+    //             "name":"Graph Search, Shortest Paths, and Data Structures",
+    //             "url":"https://coursera.org/share/586430393d6f9d4808d3926401616f95",
+    //             "tag":"Shortest Paths"
 
-            },
-            {
-                "name":"Graph Search, Shortest Paths, and Data Structures",
-                "url":"https://coursera.org/share/586430393d6f9d4808d3926401616f95",
-                "tag":"Data Structures"
+    //         },
+    //         {
+    //             "name":"Graph Search, Shortest Paths, and Data Structures",
+    //             "url":"https://coursera.org/share/586430393d6f9d4808d3926401616f95",
+    //             "tag":"Data Structures"
 
-            },
-            {
-                "name":"Greedy Algorithms, Minimum Spanning Trees, and Dynamic Programming",
-                "url":"https://coursera.org/share/6c88b2436d5ba1bc334ba9d54bd07516",
-                "tag":"Greedy Algorithms"
+    //         },
+    //         {
+    //             "name":"Greedy Algorithms, Minimum Spanning Trees, and Dynamic Programming",
+    //             "url":"https://coursera.org/share/6c88b2436d5ba1bc334ba9d54bd07516",
+    //             "tag":"Greedy Algorithms"
 
-            },
-            {
-                "name":"Greedy Algorithms, Minimum Spanning Trees, and Dynamic Programming",
-                "url":"https://coursera.org/share/6c88b2436d5ba1bc334ba9d54bd07516",
-                "tag":"Minimum Spanning Trees"
+    //         },
+    //         {
+    //             "name":"Greedy Algorithms, Minimum Spanning Trees, and Dynamic Programming",
+    //             "url":"https://coursera.org/share/6c88b2436d5ba1bc334ba9d54bd07516",
+    //             "tag":"Minimum Spanning Trees"
 
-            },
-            {
-                "name":"Greedy Algorithms, Minimum Spanning Trees, and Dynamic Programming",
-                "url":"https://coursera.org/share/6c88b2436d5ba1bc334ba9d54bd07516",
-                "tag":"Dynamic Programming"
+    //         },
+    //         {
+    //             "name":"Greedy Algorithms, Minimum Spanning Trees, and Dynamic Programming",
+    //             "url":"https://coursera.org/share/6c88b2436d5ba1bc334ba9d54bd07516",
+    //             "tag":"Dynamic Programming"
 
-            },
-            {
-                "name":"Shortest Paths Revisited, NP-Complete Problems and What To Do About Them",
-                "url":"https://coursera.org/share/e1b86b06b7ea16275da9bfd10fd9ce44",
-                "tag":"Shortest Paths Revisited"
+    //         },
+    //         {
+    //             "name":"Shortest Paths Revisited, NP-Complete Problems and What To Do About Them",
+    //             "url":"https://coursera.org/share/e1b86b06b7ea16275da9bfd10fd9ce44",
+    //             "tag":"Shortest Paths Revisited"
 
-            },
-            {
-                "name":"Shortest Paths Revisited, NP-Complete Problems and What To Do About Them",
-                "url":"https://coursera.org/share/e1b86b06b7ea16275da9bfd10fd9ce44",
-                "tag":"NP-Complete Problems"
+    //         },
+    //         {
+    //             "name":"Shortest Paths Revisited, NP-Complete Problems and What To Do About Them",
+    //             "url":"https://coursera.org/share/e1b86b06b7ea16275da9bfd10fd9ce44",
+    //             "tag":"NP-Complete Problems"
 
-            },
-        ]
+    //         },
+    //     ]
     
-    },
+    // },
 
     
     
-    {
-        "name":"AWS Cloud Solutions Architect",
-        "issuingOrganization": "CoursEra",
-        "url" : "https://coursera.org/share/94e965fb8138b2220cedb1795a0fe68b",
-        "date" : "Aug 2023",
-        "logo":"/aws.svg",
-        "width":"300",
-        "height":"100",
-        "credentials"  :"LKSJJGSSGFX",
-        "courses":[
-                    {
-                "name":"AWS Cloud Technical Essentials",
-                "url":"https://www.coursera.org/account/accomplishments/certificate/GTHHXPG8RM5C",
-                "tag":"AWS EC2 "
+    // {
+    //     "name":"AWS Cloud Solutions Architect",
+    //     "issuingOrganization": "CoursEra",
+    //     "url" : "https://coursera.org/share/94e965fb8138b2220cedb1795a0fe68b",
+    //     "date" : "Aug 2023",
+    //     "logo":"/aws.svg",
+    //     "width":"300",
+    //     "height":"100",
+    //     "credentials"  :"LKSJJGSSGFX",
+    //     "courses":[
+    //                 {
+    //             "name":"AWS Cloud Technical Essentials",
+    //             "url":"https://www.coursera.org/account/accomplishments/certificate/GTHHXPG8RM5C",
+    //             "tag":"AWS EC2 "
 
-            },
-            {
-                "name":"AWS Cloud Technical Essentials",
-                "url":"https://www.coursera.org/account/accomplishments/certificate/GTHHXPG8RM5C",
-                "tag":"AWS Lambda "
+    //         },
+    //         {
+    //             "name":"AWS Cloud Technical Essentials",
+    //             "url":"https://www.coursera.org/account/accomplishments/certificate/GTHHXPG8RM5C",
+    //             "tag":"AWS Lambda "
 
-            },
-            {
-                "name":"AWS Cloud Technical Essentials",
-                "url":"https://www.coursera.org/account/accomplishments/certificate/GTHHXPG8RM5C",
-                "tag":"AWS S3 "
+    //         },
+    //         {
+    //             "name":"AWS Cloud Technical Essentials",
+    //             "url":"https://www.coursera.org/account/accomplishments/certificate/GTHHXPG8RM5C",
+    //             "tag":"AWS S3 "
 
-            },
-           {
-                "name":"Architecting Solutions on AWS",
-                "url":"https://www.coursera.org/account/accomplishments/certificate/GTHHXPG8RM5C",
-                "tag":"SQS "
+    //         },
+    //        {
+    //             "name":"Architecting Solutions on AWS",
+    //             "url":"https://www.coursera.org/account/accomplishments/certificate/GTHHXPG8RM5C",
+    //             "tag":"SQS "
 
-            },
-            {
-                "name":"Architecting Solutions on AWS",
-                "url":"https://www.coursera.org/account/accomplishments/certificate/GTHHXPG8RM5C",
-                "tag":"SNS "
+    //         },
+    //         {
+    //             "name":"Architecting Solutions on AWS",
+    //             "url":"https://www.coursera.org/account/accomplishments/certificate/GTHHXPG8RM5C",
+    //             "tag":"SNS "
 
-            },
-            {
-                "name":"Architecting Solutions on AWS",
-                "url":"https://www.coursera.org/account/accomplishments/certificate/GTHHXPG8RM5C",
-                "tag":"Dynamo DB"
+    //         },
+    //         {
+    //             "name":"Architecting Solutions on AWS",
+    //             "url":"https://www.coursera.org/account/accomplishments/certificate/GTHHXPG8RM5C",
+    //             "tag":"Dynamo DB"
 
-            },
-            {
-                "name":"Introduction to Designing Data Lakes on AWS",
-                "url":"https://www.coursera.org/account/accomplishments/certificate/3L5RST9Q9WN6",
-                "tag":"AWS LakeFormation"
+    //         },
+    //         {
+    //             "name":"Introduction to Designing Data Lakes on AWS",
+    //             "url":"https://www.coursera.org/account/accomplishments/certificate/3L5RST9Q9WN6",
+    //             "tag":"AWS LakeFormation"
 
-            },
+    //         },
 
-            {
-                "name":"Introduction to Designing Data Lakes on AWS",
-                "url":"https://www.coursera.org/account/accomplishments/certificate/3L5RST9Q9WN6",
-                "tag":"AWS Glue "
+    //         {
+    //             "name":"Introduction to Designing Data Lakes on AWS",
+    //             "url":"https://www.coursera.org/account/accomplishments/certificate/3L5RST9Q9WN6",
+    //             "tag":"AWS Glue "
 
-            },
+    //         },
 
-            {
-                "name":"Introduction to Designing Data Lakes on AWS",
-                "url":"https://www.coursera.org/account/accomplishments/certificate/3L5RST9Q9WN6",
-                "tag":" AWS EMR / AWS Aurora"
+    //         {
+    //             "name":"Introduction to Designing Data Lakes on AWS",
+    //             "url":"https://www.coursera.org/account/accomplishments/certificate/3L5RST9Q9WN6",
+    //             "tag":" AWS EMR / AWS Aurora"
 
-            },
-            {
-                "name":"Introduction to Designing Data Lakes on AWS",
-                "url":"https://www.coursera.org/account/accomplishments/certificate/3L5RST9Q9WN6",
-                "tag":"AWS Athena "
+    //         },
+    //         {
+    //             "name":"Introduction to Designing Data Lakes on AWS",
+    //             "url":"https://www.coursera.org/account/accomplishments/certificate/3L5RST9Q9WN6",
+    //             "tag":"AWS Athena "
 
-            },
+    //         },
 
-            {
-                "name":"Exam Prep: AWS Certified Solutions Architect - Associate",
-                "url":"https://www.coursera.org/account/accomplishments/certificate/5P3RHAWHGCHE",
-                "tag":"AWS RedShift "
+    //         {
+    //             "name":"Exam Prep: AWS Certified Solutions Architect - Associate",
+    //             "url":"https://www.coursera.org/account/accomplishments/certificate/5P3RHAWHGCHE",
+    //             "tag":"AWS RedShift "
 
-            }
+    //         }
            
-        ]
+    //     ]
     
-    },
+    // },
 
     {
-        "name":"IBM DevOps and Software Engineering Specialization",
+        "name":"Introduction to Relational Databases (RDBMS)",
         "issuingOrganization": "CoursEra",
-        "url" : "https://coursera.org/share/ab2d88f3cff7c136cab8d2c81a844dfc",
+        "url" : "https://coursera.org/share/7ddcc20c91b53e15fe2d28974450d041",
         "date" : "Aug 2023",
         "logo":"/ibm.svg",
         "width":"300",
@@ -407,145 +407,5 @@ export    const certifications = [
             },
         ]
     },
-
-    {
-        "name":"Hackerrank JavaScript Assessment",
-        "issuingOrganization": "Hackerrank",
-        "url" : "https://www.hackerrank.com/certificates/ca128f4b163f",
-        "date" : "Aug 2023",
-        "logo":"/hackerrank.png",
-        "width":"500",
-        "height":"400",
-        "credentials"  :"",
-        "courses":[
-            {
-                "name":"",
-                "url":"#",
-                "tag":"JavaScript ES6+"
-            },{
-                "name":"",
-                "url":"#",
-                "tag":"Web Development"
-            },
-            {
-                "name":"",
-                "url":"#",
-                "tag":"Hackerrank"
-            },
-
-            {
-                "name":"",
-                "url":"#",
-                "tag":"Skills Assessment"
-
-            },
-            {
-                "name":"",
-                "url":"#",
-                "tag":"React"
-
-            },
-            {
-                "name":"",
-                "url":"#",
-                "tag":"Full Stack Development"
-
-            }
-        ]
-    },
-
-    {
-        "name":"Hackerrank Python Assessment",
-        "issuingOrganization": "Hackerrank",
-        "url" : "https://www.hackerrank.com/certificates/f6dfb1b5c03b",
-        "date" : "Dec 2023",
-        "logo":"/hackerrank.png",
-        "width":"500",
-        "height":"400",
-        "credentials"  :"",
-        "courses":[
-            {
-                "name":"",
-                "url":"#",
-                "tag":"Python3"
-            },{
-                "name":"",
-                "url":"#",
-                "tag":"API Development"
-            },
-            {
-                "name":"",
-                "url":"#",
-                "tag":"Hackerrank"
-            },
-
-            {
-                "name":"",
-                "url":"#",
-                "tag":"Skills Assessment"
-
-            },
-            {
-                "name":"",
-                "url":"#",
-                "tag":"Django"
-
-            },
-            {
-                "name":"",
-                "url":"#",
-                "tag":"Full Stack Development"
-
-            }
-        ]
-    },
-
-    {
-        "name":"Hackerrank Java Assessment",
-        "issuingOrganization": "Hackerrank",
-        "url" : "https://www.hackerrank.com/certificates/d13515ed1a7a",
-        "date" : "Dec 2023",
-        "logo":"/hackerrank.png",
-        "width":"500",
-        "height":"400",
-        "credentials"  :"",
-        "courses":[
-            {
-                "name":"",
-                "url":"#",
-                "tag":"Java"
-            },{
-                "name":"",
-                "url":"#",
-                "tag":"Java Development"
-            },
-            {
-                "name":"",
-                "url":"#",
-                "tag":"Hackerrank"
-            },
-
-            {
-                "name":"",
-                "url":"#",
-                "tag":"Java Development Kit"
-
-            },
-            {
-                "name":"",
-                "url":"#",
-                "tag":"Microservices"
-
-            },
-            {
-                "name":"",
-                "url":"#",
-                "tag":"Full Stack Development"
-
-            }
-        ]
-    }
-
-
 
 ]

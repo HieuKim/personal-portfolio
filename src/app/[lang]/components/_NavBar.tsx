@@ -34,7 +34,7 @@ return (
   </div>
 
   {/**Menu Items */}
-  <div hidden = {!isNavOpen} className="w-auto flex flex-wrap items-right  w-full  " id="navbar-cta">
+  <div hidden = {!isNavOpen} className="flex flex-wrap items-right w-full" id="navbar-cta">
     <ul  className="flex font-medium  md:p-0 mt-4  
     rounded-lg bg-transparent 
      md:space-x-8 rtl:space-x-reverse md:mt-0 

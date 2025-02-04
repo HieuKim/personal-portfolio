@@ -9,8 +9,7 @@ const config: Config = {
     './src/app/**/*.{js,ts,jsx,tsx,mdx}',
   ],
 
-  theme:
-  {
+  theme: {
     container: {
       padding: {
         DEFAULT: '1rem',
@@ -44,33 +43,27 @@ const config: Config = {
             borderColor: 'grey',
           },
         },
-      wave: 
-      {
-        '0% ' : { transform: 'rotate( 0.0deg)' },
-        '10%' : { transform: 'rotate(14.0deg)' },  /* The following five values can be played with to make the waving more or less extreme */
-        '20%' : { transform: 'rotate(-8.0deg)' },
-        '30%': { transform: 'rotate(14.0deg)' },
-        '40%' :  { transform: 'rotate(-4.0deg)' },
-        '50%': { transform: 'rotate(10.0deg)' },
-        '60%': { transform: 'rotate( 0.0deg)' },  /* Reset for the last half to pause */
-       '100%' : { transform: 'rotate( 0.0deg)' }
-      },
-      shine: {
-        "100%": { left: "125%" },
-      },
-      
+        wave: {
+          '0%': { transform: 'rotate(0.0deg)' },
+          '10%': { transform: 'rotate(14.0deg)' },
+          '20%': { transform: 'rotate(-8.0deg)' },
+          '30%': { transform: 'rotate(14.0deg)' },
+          '40%': { transform: 'rotate(-4.0deg)' },
+          '50%': { transform: 'rotate(10.0deg)' },
+          '60%': { transform: 'rotate(0.0deg)' },
+          '100%': { transform: 'rotate(0.0deg)' },
+        },
+        shine: {
+          '100%': { left: '125%' },
+        },
       },
       animation: {
         typing: 'typing 3s steps(26) infinite alternate, blink .5 linear alternate',
         wave: 'wave 2s linear infinite',
-        shine: "shine 1s"
+        shine: 'shine 1s',
       },
     },
-  
   },
-  purge: {
-    enabled: true,
-    content: ['./src/**/*.tsx'],
-  }
 }
+
 export default config

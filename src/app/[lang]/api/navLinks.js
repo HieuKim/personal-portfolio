@@ -8,11 +8,11 @@ export const navLinks =
         "path":"/experience"
 
     },
-    {
-        "name":"Certifications",
-        "path":"/certifications"
+    // {
+    //     "name":"Certifications",
+    //     "path":"/certifications"
 
-    },
+    // },
    
     {
         "name":"Skills",
@@ -23,24 +23,24 @@ export const navLinks =
         "path":"/projects"
 
     },
-    {
-        "name":"Hackathons",
-        "path":"/hackathons"
+    // {
+    //     "name":"Hackathons",
+    //     "path":"/hackathons"
 
-    },
+    // },
     {
         "name":"Resume",
-        "path":"/CVIngilaFSDRR.pdf"
+        "path":"/my-resume.pdf"
 
     },
-    /*{
-        "name":"Contact",
-        "path":"/contact"
+    // {
+    //     "name":"Contact",
+    //     "path":"/contact"
 
-    },*/
-    {
-        "name":"Blog",
-        "path":"/blog"
+    // },
+    // {
+    //     "name":"Blog",
+    //     "path":"/blog"
 
-    }
+    // }
 ]

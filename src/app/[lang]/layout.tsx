@@ -15,7 +15,9 @@ export const metadata: Metadata = {
 export default function RootLayout({children, params: {lang}}: {children: React.ReactNode,  params: {lang: string}}) {  
 
   return (
-    <html lang={lang} className = "dark">
+    // <html lang={lang} className = "dark">
+    <html lang={lang} className="dark" style={{ colorScheme: 'dark' }}>
+
     <body className='dark:bg-gradient-to-b from-black via-gray-950 to-gray-700'>
 
     <ThemeProvider attribute='class' defaultTheme='dark'>
