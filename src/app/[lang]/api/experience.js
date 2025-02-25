@@ -2,7 +2,7 @@ export const workExperience =
 [
     {
         "company":"Cazoodle",
-        "title":"Senior Full Stack Software Engineer",
+        "title":"Full Stack Software Engineer",
         "from":"Oct 2022",
         "to":"Present",
         "url":"https://www.cazoodle.com",
@@ -18,8 +18,8 @@ export const workExperience =
     {
         "company":"One Mount Group",
         "title":"Full Stack Software Engineer",
-        "from":"Dec 2021",
-        "to":"Dec 2022",
+        "from":"Jan 2021",
+        "to":"Oct 2022",
         "url":"https://onemount.com",
         "logo":"/onemountgroup.svg",
         "width":"400",

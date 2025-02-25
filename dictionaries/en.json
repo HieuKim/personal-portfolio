@@ -1,7 +1,7 @@
 {
     "jumbotron": {
       "heading": "Hi there, I am Hieu Kim",
-      "subHeading": "I am a Full Stack Developer with 4 years of experience in developing web applications. I am passionate about learning new technologies and building scalable applications."
+      "subHeading": "I am a Full Stack Software Engineer with 4 years of experience in developing web applications. I am passionate about learning new technologies and building scalable applications."
     },
     "nav": {
       "Home": "Home",
@@ -19,7 +19,7 @@
     "experience":
     {
       "hbl":{
-        "title":"Senior Full Stack Developer",
+        "title":"Full Stack Software Engineer",
         "from":"Jan 2023",
         "to":"Present",
         "p1":"Improved Remittance payment efficiency by 90% by revamping the legacy Remittance processing software into modern, feature-rich Remittance processing solution.",
@@ -27,7 +27,7 @@
         "p3":"Developed 50+ end-to-end applications using JavaScript, Node.js, .NET Web API, React, Angular, TypeScript and Django. Performed CI/CD by DevOps, GitLab, and GitHub Actions."
       },
       "hbl2":{
-        "title":"Senior Full Stack Developer",
+        "title":"Full Stack Software Engineer",
         "from":"Jan 2023",
         "to":"Present",
         "p1":"Reduced manual efforts by 95% by automating the process of electronic Proceeds Realization Certificates (ePRC) generation by developing reusable APIs.",

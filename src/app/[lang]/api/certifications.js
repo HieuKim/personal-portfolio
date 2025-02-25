@@ -390,7 +390,7 @@ export    const certifications = [
             {
                 "name":"The Full Stack",
                 "url":"https://coursera.org/share/5e67b3ce5aa22ac9b8c2c6af69b77b6b",
-                "tag":"Full Stack Developer"
+                "tag":"Full Stack Software Engineer"
 
             },
             {
